@@ -1,0 +1,16 @@
+.champ-preview {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  gap: 1rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.champ-name {
+  display: flex;
+  align-items: center;
+}

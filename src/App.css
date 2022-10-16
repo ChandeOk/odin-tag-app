@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  /* height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  background-color: #040b2e;
+}
+
+.lol-image {
+  min-width: 1366px;
+  /* height: auto; */
+}
+
+.lol-image-container {
+  margin: 1rem;
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}

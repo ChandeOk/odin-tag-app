@@ -1,0 +1,9 @@
+.timer {
+  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.timer-text {
+  font-size: 2rem;
+}

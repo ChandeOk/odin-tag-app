@@ -13,4 +13,9 @@ img {
 .champ-name {
   display: flex;
   align-items: center;
+  cursor: pointer;
+}
+
+.champ-preview-image {
+  cursor: pointer;
 }

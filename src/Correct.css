@@ -1,0 +1,17 @@
+.is-correct-window {
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 94%;
+  background-color: #03071e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.is-correct-text {
+  font-size: 4rem;
+}

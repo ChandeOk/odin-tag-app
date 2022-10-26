@@ -5,17 +5,21 @@
 }
 
 .header {
-  width: 100vw;
   height: 5rem;
   background-color: #03071e;
   display: flex;
   justify-content: center;
   align-items: center;
   opacity: 97%;
-  z-index: 1;
 }
 
 .champs-container {
   height: 80%;
   display: flex;
+}
+
+.button {
+  position: fixed;
+  left: 1rem;
+  background-color: rgb(230, 44, 11);
 }

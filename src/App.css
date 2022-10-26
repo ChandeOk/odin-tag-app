@@ -2,18 +2,18 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Dosis', sans-serif;
 }
 
 .App {
-  /* height: 100vh; */
   display: flex;
   flex-direction: column;
   background-color: #040b2e;
+  position: relative;
 }
 
 .lol-image {
   min-width: 1366px;
-  /* height: auto; */
 }
 
 .lol-image-container {
